@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "FASTER State Management for Timely Dataflow presented at BIRTE 2019"
+date:   2019-08-26 11:45:00 -0800
+categories: talks
+---
+
+<div style="text-align:center;width:80%;margin: 10px auto;"><img src="http://matthewbrook.es/assets/img/birte.jpg" /></div>
+
+Today I presented the demo paper "FASTER State Management for Timely Dataflow" at the [BIRTE workshop](https://birte-conf.github.io/birte2019/index.html) co-located with [VLDB](http://www.vldb.org/2019/). This is the result of joint work with my supervisors for my Master's thesis: [Vasiliki Kalavri](http://people.inf.ethz.ch/kalavriv/) and [John Liagouris](http://people.inf.ethz.ch/ioannisl/). You can check out the paper [here](http://matthewbrook.es/assets/BIRTE_2019_FASTER_State_Management_for_Timely_Dataflow.pdf).
+
+I also attended many interesting talks at VLDB. My personal highlights being the following:
+* Megaphone: Latency-conscious state migration for distributed streaming dataflows
+* SLOG: Serializable, Low-latency, Geo-replicated Transactions
+* An Experimental Evaluation of Garbage Collectors on Big Data Applications
+
+\- Matthew

@@ -4,16 +4,21 @@
 
 layout: home
 ---
+I have been working as a Software Engineer/Developer at Optiver Europe since
+September 2020. At Optiver I work on building auto-traders and applications
+to assist the market makers performing screen trading. Before joining
+Optiver, I worked as a Backend Engineer at both Monzo and Skyscanner.
 
-MEng Computing student at Imperial College London.
-Currently participating in an exchange program to ETH Zürich
-where I am writing my Master's Thesis with the [Systems Group](https://www.systems.ethz.ch/).
+As well as developing software I enjoy taking a more holistic interest in my
+role. At Monzo this meant that I was heavily involved in the complicance and
+strategy side of growing an emerging lending business.
 
-My interests are in Distributed Systems and Large-Scale Data Intensive Applications.
-The focus of my Master's Thesis is State Management for Distributed Streaming Applications.
+I completed my MEng Computing degree at Imperial College London and ETH
+Zürich. I participated in an exchange program to ETH Zürich where I wrote my
+[Master's Thesis](https://doi.org/10.3929/ethz-b-000362324) within the
+[Systems Group](https://www.systems.ethz.ch/).
 
-After completing my degree I will be joining [Monzo](https://monzo.com/) as a Backend Engineer 🚀.
-
-I enjoy systems programming in Rust, Go and Java.
-My frontend development experience mostly involves React JS.
-I have also previously written Android applications.
+I enjoy systems programming in Rust, Go and Java. Since joining Optiver I
+have also begun developing systems in C++. My frontend development experience
+mostly involves React JS and CoffeeScript. I have also previously written
+Android applications.

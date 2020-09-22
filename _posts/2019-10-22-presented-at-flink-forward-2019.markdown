@@ -1,14 +1,15 @@
 ---
 layout: post
-title:  "Accepted for Flink Forward 2019"
-date:   2019-07-02 18:19:19 +0200
+title:  "Presented at Flink Forward 2019"
+date:   2019-10-22 18:19:19 +0200
 categories: talks
 ---
-I am very pleased to say that my talk submission for [Flink Forward 2019](https://berlin-2019.flink-forward.org/) has been accepted and that I will be presenting at the conference on 8/9th October 2019.
+Just over two weeks ago I gave a talk at [Flink Forward 2019](https://berlin-2019.flink-forward.org/) on the topic of State Management for Streaming Applications and the
+performance of different state backends. This talk was directly related to research I performed as part of my Master's Thesis.
 
-This talk is directly related to research I have been performing as part of my Master's Thesis.
+A recording of my talk has now been uploaded to YouTube so I am linking it here.
 
-I will provide a link to the talk and a recording as they become available. For now, see below for the talk abstract.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xWNbbkQMtfI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 \- Matthew
 
